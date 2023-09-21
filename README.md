@@ -87,7 +87,8 @@ Unless otherwise stated, for each question:
 
 The first 5 rows of your resulting DataFrame should look something like this:
 
-![DataFrame]()
+![DataFrame](Resources/images/DataFrame.png)
+
 
 
 
