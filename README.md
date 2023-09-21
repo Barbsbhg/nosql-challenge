@@ -7,4 +7,4 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ### **Part 1: Database and Jupyter Notebook Set Up**
 
 Use <code>NoSQL_setup_starter.ipynb</code> for this section of the challenge.
-
+1. Import the data provided in the <code>establishments.json</code> file from your Terminal. Name the database uk_food and the collection establishments. Copy the text you used to import your data from your Terminal to a markdown cell in your notebook.
